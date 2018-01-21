@@ -1,0 +1,9 @@
+﻿.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a:hover { background-color: #1e282c !important; }
+
+.skin-blue .main-header .logo { background-color: #1e282c !important; }
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover { background-color: #1e282c !important; }
+
+.skin-blue .main-header li.user-header { background-color: #1e282c !important; }
+
+.navbar-static-top { background-color: #1e282c !important; }

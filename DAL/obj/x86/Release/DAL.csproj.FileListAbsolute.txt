@@ -1,0 +1,39 @@
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\x86\Release\DAL.pdb

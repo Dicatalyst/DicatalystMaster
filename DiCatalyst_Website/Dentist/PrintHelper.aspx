@@ -1,0 +1,94 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="PrintHelper.aspx.cs" Inherits="Dentist_PrintHelper" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <div >
+        <table style="width: 100%">
+            <tr>
+                <td style="width:20%;text-align:center;">
+                    <img src="https://practo-fabric.s3.amazonaws.com/manvijay-dental-clinic-meerut-1441092721-55e554715bb9f.JPG" height="75" width="75" /><br />
+                    <label style="font-size:20px;">DR. K.L. Murthy</label><br />
+                    <p style="margin: 0px 0px 5px 0px; text-align:right !important"><i style="font-size:12px;text-align:right;margin-bottom:5px;">M.D.S.(Osm), DNBE(USA)</i></p>
+                    <p style="margin: 0px;">Periodontist &amp; Implantologist</p>
+                    <p style="margin: 0px;">ORB in Oral &amp; Maxillofascial Srgery Boston (USA)</p>
+                </td>
+                <td style="width:5%; border-right: 1pt solid black;"></td>
+                <td style="width:75%;text-align:center;">
+                    <span style="float:right;"> Tel: Clinic: 23036655 </span><br />
+                    <p style="width:100%; font-size:2em; margin:0;">VANAJA </p>
+                    <p style="width:100%; font-size:2em; margin:0;"> PREMEIER DENTAL HOSPITAL </p>
+                    <p style="width: 100%; font-size: 1em; color: forestgreen; margin:0;"> A Complete Dental Care Centre </p>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <div style="width: 100%; padding-top: 20px;">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width:25%;padding:15px;border-bottom: 1px solid black;">
+                        <div style="text-align:center;">
+                            <p style="margin:0;">Doctor Name: Rama Krishna 3</p>
+                            <i style="font-size:12px;float:right;margin-bottom:5px;">Desig 1</i>
+                            <br />
+                            <br />
+                            <p style="margin:0;">Doctor Name: Rama Krishna 3</p>
+                            <i style="font-size:12px;float:right;margin-bottom:5px;">Desig 2</i>
+                            <br />
+                            <br />
+                            <p style="margin:0;">Doctor Name: Rama Krishna 3</p>
+                            <i style="font-size:12px;float:right;margin-bottom:5px;">Desig 3</i>
+                            <div style="height:100px; margin-top: 50px;">
+                                <label style="font-size:1.25em;">DR. K.L. Murthy</label><br />
+                                <i style="font-size:12px;float:right;margin-bottom:5px;">M.D.S.(Osm), DNBE(USA)</i>
+                                <br />
+                                <p style="margin-top:2px; text-align:center">Vanaja Dental Hospital, Chandanagar, HYD</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td style="width:2%; border-left: 1px solid black; border-bottom: 1px solid black;"></td>
+                    <td style="width: 80%;border-bottom: 1px solid black;">
+                        <div style="">
+                            <span>Name: <label style="text-decoration: underline; margin-right: 25px;"> &nbsp;&nbsp;&nbsp; Patient Name &nbsp;&nbsp;&nbsp;</label></span>
+                            <span style="">Age: <label style="text-decoration: underline; margin-right: 25px;"> &nbsp;&nbsp;&nbsp; Age &nbsp;&nbsp;&nbsp;</label></span>
+                            <span style="">Sex: <label style="text-decoration: underline; margin-right: 25px;"> &nbsp;&nbsp;&nbsp; Patient Sex &nbsp;&nbsp;&nbsp;</label></span>
+                            <br />
+                            <span style="font-size: 50px;color: red;float: left;">&#8478;</span>
+                            <br />
+                            <br /><br /><br />
+                            <div style="height:auto;min-height: 350px;">
+                                Data ..........
+                                <br />
+                                <br />
+                            </div>
+                            <div style="float:right; margin-bottom:5px;">
+                                <span>Review After: <label> &nbsp;&nbsp;&nbsp; _________________________  &nbsp;&nbsp;&nbsp;</label></span>
+                            </div>
+                        </div>
+
+                    </td>
+
+                </tr>
+                <tr>
+                    <td style="width:25%;padding:15px;">
+                        <div style="text-align:center;">
+                            <p style="margin:0;">Beside Vijaya Bank, Main Road, ChandaNagar, Hyderabad - 50</p>
+                            <p style="margin:5px 0;">For Appointment: ..........................</p>
+                            <p style="margin:5px 0;">e-mail: ......................................</p>
+                        </div>
+                    </td>
+                    <td colspan="2">
+                        <div style="float:right; margin:0;">
+                            <p style="text-decoration:underline; font-size: 25px; color: orange;">Please bring all your old Medical Records and Medicins</p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

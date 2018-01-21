@@ -1,0 +1,131 @@
+E:\DiCatalyst Beta 5.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 5.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 5.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DiCatalyst Beta 5.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 5.0\DAL\obj\Debug\DAL.pdb
+E:\DiCatalyst Beta 6.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 6.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 6.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 6.0\DAL\obj\Debug\DAL.pdb
+E:\DiCatalyst Beta 8.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 8.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 8.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DiCatalyst Beta 8.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 8.0\DAL\obj\Debug\DAL.pdb
+E:\DiCatalyst Beta 9.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 9.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 9.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DiCatalyst Beta 9.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 9.0\DAL\obj\Debug\DAL.pdb
+E:\DiCatalyst Beta 10.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 10.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 10.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DiCatalyst Beta 10.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 10.0\DAL\obj\Debug\DAL.pdb
+E:\DiCatalyst Beta 11.0\DAL\bin\Debug\DAL.dll
+E:\DiCatalyst Beta 11.0\DAL\bin\Debug\DAL.pdb
+E:\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.dll
+E:\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.pdb
+E:\20-04-17 DiCatalyst 6 25 PM\DiCatalyst Beta 11.0\DAL\bin\Debug\DAL.dll
+E:\20-04-17 DiCatalyst 6 25 PM\DiCatalyst Beta 11.0\DAL\bin\Debug\DAL.pdb
+E:\20-04-17 DiCatalyst 6 25 PM\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.dll
+E:\20-04-17 DiCatalyst 6 25 PM\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.pdb
+E:\20-04-17 DiCatalyst 6 25 PM\DiCatalyst Beta 11.0\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\DiCatalyst\DiCatalyst\DAL\bin\Debug\DAL.dll
+E:\Projects\DiCatalyst\DiCatalyst\DAL\bin\Debug\DAL.pdb
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.dll
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.pdb
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Users\Ravi\Downloads\DiCatalyst\DiCatalyst\DAL\obj\Debug\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\Debug\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\Debug\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Debug\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\DiCatalyst_14Nov\DiCatalyst_14Nov\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\DiCatalyst_14Nov\DiCatalyst_14Nov\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\DiCatalyst_14Nov\DiCatalyst_14Nov\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\DiCatalyst_14Nov\DiCatalyst_14Nov\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\DiCatalyst_14Nov\DiCatalyst_14Nov\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Nov25th_hospital1stsittings\Nov25th_hospital1stsittings\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Nov25th_hospital1stsittings\Nov25th_hospital1stsittings\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Nov25th_hospital1stsittings\Nov25th_hospital1stsittings\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Nov25th_hospital1stsittings\Nov25th_hospital1stsittings\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Nov25th_hospital1stsittings\Nov25th_hospital1stsittings\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Nov26th_PrescriptionPrintPreview\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Nov26th_PrescriptionPrintPreview\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Nov26th_PrescriptionPrintPreview\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Nov26th_PrescriptionPrintPreview\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Nov26th_PrescriptionPrintPreview\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Code\091217\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Code\091217\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Code\091217\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Code\091217\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\Dec24th_modifiedjqueryfordentistcalanddocsettings_Ramesh\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\DiCatalyst_Dec31st_R2_RamsMailTemplate\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsEditDelete\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsEditDelete\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsEditDelete\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_Dec31st_R2_RamsEditDelete\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Code\Jan4th\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Code\Jan4th\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Code\Jan4th\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Code\Jan4th\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues\DiCatalyst\DAL\obj\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues_addedravicode\DiCatalyst\DAL\bin\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues_addedravicode\DiCatalyst\DAL\bin\Debug\DAL.pdb
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues_addedravicode\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues_addedravicode\DiCatalyst\DAL\obj\Debug\DAL.dll
+D:\Ravi\Sai_DiCatalyst\DiCatalyst_05JAN_Patientissues_addedravicode\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Sai_Dicatalyst\Dec5th_Lokeshcode10PM\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Dec6th_lok_Madh_Rav_integration\DiCatalyst\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\Dec6th_lok_Madh_Rav_integration\DiCatalyst\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Dec6th_lok_Madh_Rav_integration\DiCatalyst\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\Dec6th_lok_Madh_Rav_integration\DiCatalyst\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Dec6th_lok_Madh_Rav_integration\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\bin\Debug\DAL.dll
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\bin\Debug\DAL.pdb
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Debug\DAL.dll
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Debug\DAL.pdb
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+#main {
+    border: 1px solid 'navy';
+    display: table;
+}
+
+#tratamiento {
+    display: table-cell;
+    padding-right: 22px;
+    width: 400px;
+}
+
+#odontograma-wrapper {
+    display: table-cell;
+    width: 800px;
+}

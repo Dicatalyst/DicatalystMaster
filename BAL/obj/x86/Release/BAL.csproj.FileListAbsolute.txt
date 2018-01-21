@@ -1,0 +1,56 @@
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\DiCatalyst_13Nov\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\16Nov2017\16Nov2017\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Nov17th2017\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec23rd_RameshremovedJqueryconflicts\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\BAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\bin\x86\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\BAL\obj\x86\Release\BAL.pdb

@@ -1,0 +1,5 @@
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\x86\Debug\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\x86\Debug\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\x86\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\x86\Debug\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\x86\Debug\DAL.pdb

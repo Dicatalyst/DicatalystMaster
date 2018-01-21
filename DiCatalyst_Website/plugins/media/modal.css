@@ -1,0 +1,32 @@
+﻿body, td, p {
+    font-family: Tahoma, Arial, Sans-serif;
+    font-size: 10pt;     
+}
+
+.header {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.dialog {
+    margin: 10px;
+    position: relative;
+    z-index: 50 !important;
+}
+
+.dialog form {
+    margin: 10px !important;
+    position: relative;
+    z-index: 50 !important;
+}
+
+.message_info {
+    /*background-color: #dc143c; */
+    background-color: Green;
+    color: White;
+}
+
+.message_warn {
+    background-color: #dc143c;
+    color: White;
+}

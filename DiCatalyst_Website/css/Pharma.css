@@ -1,0 +1,188 @@
+﻿.titletext {
+    color: #3b3b3b;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.titleshadowback {
+    -moz-box-shadow: 0px 0px 14px 1px rgba(173, 171, 173, 0.77);
+    -webkit-box-shadow: 0px 0px 14px 1px rgba(173, 171, 173, 0.77);
+    background-color: #fff;
+    border: 1px solid #d3d3d3;
+    box-shadow: 0px 0px 14px 1px rgba(173, 171, 173, 0.77);
+    padding: 5px 15px 10px 15px;
+}
+
+.fa1 {
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+}
+
+.badgecolorPa { background: #d6e601 !important; }
+
+.badgecolorDr { background: #60adc6 !important; }
+
+.badgecolorMe { background: #ff6d6d !important; }
+
+.badgecolorFi { background: #ff2971 !important; }
+
+.badgecolorQ { background: #9088ed !important; }
+
+.badgecolorF { background: #ef600c !important; }
+
+.badgecolorSe { background: #484444 !important; }
+
+.badgecolorCu { background: #3ae3f5 !important; }
+        
+
+         
+
+/*.badgecolorRe {
+            background: #d6e601 !important;
+        }
+
+        
+          
+        .badgecolorSc {
+            background: #ff6d6d !important;
+        }
+
+        .badgecolorOp {
+            background: #15c267 !important;
+        }
+
+
+        .badgecolorDc {
+            background: #15c267 !important;
+        }
+
+        .badgecolorTe {
+            background: #00d5d5 !important;
+        }*/
+
+        
+.badgecolorIn { background: #ef600c !important; }
+
+        
+         
+.bg-maroon-active, .modal-info .modal-header, .modal-info .modal-footer { background-color: #ff2971 !important; }
+
+
+
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a:hover { background-color: #ff2971 !important; }
+
+.skin-blue .main-header .logo { background-color: #ff2971 !important; }
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover { background-color: #ff2971 !important; }
+
+.skin-blue .main-header li.user-header { background-color: #ff2971 !important; }
+
+.btn-app {
+    -moz-box-shadow: 0px 0px 5px 1px rgba(218, 218, 218, 0.77);
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(218, 218, 218, 0.77);
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border: 1px solid #d3d3d3;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px 1px rgba(218, 218, 218, 0.77);
+    color: #666;
+    font-size: 14px;
+    height: 60px !important;
+    margin: 10px 0 10px 10px;
+    min-width: 65px !important;
+    padding: 7px 5px;
+    position: relative;
+    text-align: center;
+}
+
+.widget-user-2 .widget-user-header {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 3px 10px 0px 0px !important;
+}
+
+.btn-app > .badge {
+    font-size: 12px !important;
+    font-weight: 400;
+    position: absolute;
+    right: -10px;
+    top: -3px;
+}
+
+.btn-app > .fa, .btn-app > .glyphicon, .btn-app > .ion {
+    display: block;
+    font-size: 25px !important;
+}
+
+.webpageimage img {
+    height: 100%;
+    width: 100%;
+}
+
+.content-header {
+    padding: 0px;
+    position: relative;
+}
+
+.box {
+    background: #ffffff;
+    border-radius: 3px;
+    border-top: 3px solid #d2d6de;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+    position: relative;
+    width: 100%;
+}
+
+.bg-gray-light {
+    background: rgba(255, 89, 147, 1);
+    background: -moz-linear-gradient(top, rgba(255, 89, 147, 1) 0%, rgba(255, 41, 113, 1) 50%, rgba(240, 12, 92, 1) 51%, rgba(252, 83, 142, 1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255, 89, 147, 1)), color-stop(50%, rgba(255, 41, 113, 1)), color-stop(51%, rgba(240, 12, 92, 1)), color-stop(100%, rgba(252, 83, 142, 1)));
+    background: -webkit-linear-gradient(top, rgba(255, 89, 147, 1) 0%, rgba(255, 41, 113, 1) 50%, rgba(240, 12, 92, 1) 51%, rgba(252, 83, 142, 1) 100%);
+    background: -o-linear-gradient(top, rgba(255, 89, 147, 1) 0%, rgba(255, 41, 113, 1) 50%, rgba(240, 12, 92, 1) 51%, rgba(252, 83, 142, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(255, 89, 147, 1) 0%, rgba(255, 41, 113, 1) 50%, rgba(240, 12, 92, 1) 51%, rgba(252, 83, 142, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 89, 147, 1) 0%, rgba(255, 41, 113, 1) 50%, rgba(240, 12, 92, 1) 51%, rgba(252, 83, 142, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5993', endColorstr='#fc538e', GradientType=0);
+}
+
+.btn-default1 {
+    background-color: #484444;
+    border-color: #ddd;
+    color: #fbfbfb;
+}
+
+.btn-default2 {
+    background-color: #ff2971;
+    border-color: #ff2971;
+    color: #fff;
+}
+
+.btn.focus, .btn:focus, .btn:hover { background-color: #d3d3d3; }
+
+.nav-tabs-custom > .nav-tabs > li.active { border-top-color: #3ae3f5 !important; }
+
+.sidebar-menu > li > a {
+    display: block;
+    padding: 12px 5px 12px 15px;
+}
+
+.user-panel > .image > img {
+    height: auto;
+    max-width: 45px;
+    width: 100%;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 250px;
+    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.content-header {
+    padding: 15px 25px 0 15px;
+    position: relative;
+}

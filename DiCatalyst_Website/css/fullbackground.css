@@ -1,0 +1,94 @@
+/*** 
+set the width and height to match your images 
+**/
+
+#slideshow {
+    height: 350px;
+    position: relative;
+    z-index: -1;
+}
+
+#slideshow IMG {
+    left: 0;
+    opacity: 0.0;
+    position: absolute;
+    top: 0;
+    z-index: 8;
+}
+
+#slideshow IMG.active {
+    opacity: 1.0;
+    z-index: 10;
+}
+
+#slideshow IMG.last-active { z-index: 9; }
+
+#slideshow img {
+    height: auto;
+    left: 0;
+			
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+			
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    /* Set up proportionate scaling */
+    width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+    img.bg {
+        left: 50%;
+        margin-left: -512px;
+    }
+}
+
+#page-wrap {
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    background: #fff;
+    box-shadow: 0 0 20px black;
+    margin: 50px auto;
+    padding: 20px;
+    position: relative;
+    width: 400px;
+}
+
+p {
+    color: #fff;
+    font: 15px/2 Arial;
+    margin: 0 0 30px 0;
+}
+
+#content {
+    background: rgb(13, 132, 255);
+    margin: 0 auto;
+    padding: 20px;
+    width: 920px;
+}
+
+#content h1 {
+    color: #fff;
+    font-family: 'Arial';
+    text-transform: uppercase;
+}
+
+#content a {
+    color: #a82711;
+    font-weight: bold;
+    padding: 0px;
+    text-transform: uppercase;
+}
+
+.searchbar {
+    background: rgba(242, 246, 248, 1);
+    background: -moz-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(242, 246, 248, 1)), color-stop(50%, rgba(216, 225, 231, 1)), color-stop(51%, rgba(181, 198, 208, 1)), color-stop(100%, rgba(224, 239, 249, 1)));
+    background: -webkit-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    background: -o-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    background: linear-gradient(to bottom, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=0);
+}

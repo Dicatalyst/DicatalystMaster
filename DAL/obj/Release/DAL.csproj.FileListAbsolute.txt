@@ -1,0 +1,27 @@
+E:\Projects\DiCatalyst\DiCatalyst\DAL\bin\Release\DAL.dll
+E:\Projects\DiCatalyst\DiCatalyst\DAL\bin\Release\DAL.pdb
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Release\DAL.dll
+E:\Projects\DiCatalyst\DiCatalyst\DAL\obj\Release\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\Release\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\bin\Release\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Release\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\DAL\obj\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\bin\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\Release\DAL.dll
+F:\Ravi_Afterformat\Dec25th_modified_Doctorsettings code\DiCatalyst\DAL\obj\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\bin\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\bin\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\obj\Release\DAL.dll
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\obj\Release\DAL.pdb
+F:\Ravi_Afterformat\DiCatalyst_Dec31st_R2_RamsEditDelete_MailfLocalGm\DiCatalyst\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\bin\Release\DAL.dll
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\bin\Release\DAL.pdb
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Release\DAL.dll
+F:\Ravi_Afterformat\Dec7th_lok_Madh_Rav_Ram_integration\DiCatalyst\DAL\obj\Release\DAL.pdb

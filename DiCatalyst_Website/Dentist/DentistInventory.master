@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Dentist/MasterPage.master" AutoEventWireup="true" CodeFile="DentistInventory.master.cs" Inherits="Dentist_DentistInventory" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <style>
+        .btn-default {
+            background-color: #ef600c;
+            border-color: #ef600c;
+            color: #fff;
+            margin-bottom: 5px;
+        }
+    </style>
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css"/>
+    <link href="../validation/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../validation/css/main.css" rel="stylesheet"/>
+    <link href="../validation/css/scrupulous.css" rel="stylesheet"/>
+
+    <div class="col-lg-12">
+        <div class="box" style="border-top: 3px solid #ef600c;">
+            <%--   <div class="box-header">
+                <h3 class="box-title">Settings</h3>
+            </div>--%>
+            <div class="box-body">
+                <p><a href="OpeningStockEntry.aspx" class="btn btn-default">Opening Stock Entry</a>
+                    <a href="Products.aspx" class="btn btn-default">Products</a>
+                    <%--<a href="ProductCategory.aspx" class="btn btn-default">Product Category</a>
+                    <a href="ProductSubCategory.aspx" class="btn btn-default">Product Sub Category</a>--%>
+                    <a href="Purchases.aspx" class="btn btn-default">Purchases</a>
+                    <%-- <a href="manufacturers.aspx" class="btn btn-default">Manufacturers</a>--%>
+                    <a href="Suppliers.aspx" class="btn btn-default">Stockists</a>
+                    <a href="ExpiryProducts.aspx" class="btn btn-default">Expiry Products</a>
+                    <a href="StockAdjustments.aspx" class="btn btn-default">Stock Adjustments</a>
+                    <a href="StockReturns.aspx" class="btn btn-default">Stock Returns</a>
+                    <a href="StockStatus.aspx" class="btn btn-default">Stock Status</a>
+                   
+                  
+                    <a href="SupplierOutstanding.aspx" class="btn btn-default">Supplier Outstanding</a>
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+    <asp:ContentPlaceHolder ID="ChildContent1" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+    <asp:ContentPlaceHolder ID="ChildContent2" runat="server">
+    </asp:ContentPlaceHolder>
+
+</asp:Content>

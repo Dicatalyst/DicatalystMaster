@@ -1,0 +1,140 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="diagnosismaster.master.cs" Inherits="Dentist_diagnosismaster" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>DiCatalyst</title>
+    <link rel="stylesheet" href="../design/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../design/dist/css/AdminLTE.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" />
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css" />
+    <link href="../validation/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../validation/css/main.css" rel="stylesheet" />
+    <link href="../validation/css/scrupulous.css" rel="stylesheet" />
+    <link href="../css/diagnosis.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div>
+            <div class="form-group banner-top" style="font-size: large;">
+
+
+                <div class="row">
+
+
+                    <div class="col-lg-4">
+                        Patient Name:
+			<b>
+                <asp:Literal ID="ltlFullName" runat="server"></asp:Literal></b>
+
+                    </div>
+
+                    <div class="col-lg-8 text-right">
+                        Mobile No.:
+			<b>
+                <asp:Literal ID="ltlMobile" runat="server"></asp:Literal></b>
+
+                        |
+			Email Id:
+			<b>
+                <asp:Literal ID="ltlEmail" runat="server"></asp:Literal></b> | 
+                        <b>
+                            <asp:LinkButton ID="lnkhome" PostBackUrl="~/Dentist/Appointments.aspx" style="color:#fff" runat="server">Back to Home</asp:LinkButton>
+                        </b>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <asp:Button ID="Button1" runat="server" Text="View Details" class="btn btn-success pull-right" Style="margin-right: 20px" />
+                    <cc1:ModalPopupExtender ID="mp1" runat="server" PopupControlID="Panl1" TargetControlID="Button1" CancelControlID="Button2" BackgroundCssClass="Background" />
+                        <asp:Panel ID="Panl1" runat="server" CssClass="Popup" align="center" style = "display:none">
+                            <iframe style="width: 600px; height: 500px; background-color: white" id="irm1" src="PatientDetails.aspx" runat="server">
+                            </iframe>
+                            <asp:Button ID="Button2" runat="server" Text="X" class="btn pull-right"/>
+                                
+                                <%--<a href="PHR.aspx" target="_blank">
+                                    <asp:Button ID="Button1" runat="server" Text="View Details" class="btn btn-success pull-right" Style="margin-right: 20px" />
+                                </a>--%>
+                        </asp:Panel>
+                    <ul class="patientUl">
+                        <li>
+                            <b>Patient Id:</b>
+                            <b>
+                                <asp:Literal ID="ltlPatientId" runat="server"></asp:Literal></b>
+
+                        </li>
+                        <li>
+                            <b>Age:</b>
+                            <b>
+                                <asp:Literal ID="ltlAge" runat="server"></asp:Literal></b>
+
+                        </li>
+                        <li>
+                            <b>Marital Status:</b>
+                            <b>
+                                <asp:Literal ID="ltlMaritalStatus" runat="server"></asp:Literal></b>
+
+                        </li>
+                        <li>
+                            <b>Gender:</b>
+                            <b>
+                                <asp:Literal ID="ltlGender" runat="server"></asp:Literal></b>
+
+                        </li>
+                        <li>
+                            <b>Occupation:</b>
+                            <b>
+                                <asp:Literal ID="ltlOccupation" runat="server"></asp:Literal></b>
+
+                        </li>
+                        <li>
+                            <b>Chief Complaint:</b>
+                            <b>
+                                <asp:Literal ID="ltlChiefComplaint" runat="server"></asp:Literal></b>
+
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <div id="popupInfo" runat="server">
+                <div id="closeButton" onclick="document.getElementById('popupInfo').style.visibility = 'hidden';">
+                    <img src="close.png" style="width: 32px; height: 32px;" />
+                </div>
+                <table style="width: 100%;">
+                    <tr style="height: 32px;">
+                        <td style="padding-left: 15px;">
+                            <div id="htmltext" runat="server">
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="popupInfoText">
+
+
+                            <asp:ListBox ID="lstDentalExamDetails" CssClass="list" runat="server" Width="100%" BackColor="#F8F8F8" Rows="8" runat="server"></asp:ListBox>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </form>
+
+
+</body>
+
+
+</html>

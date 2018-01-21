@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Dentist/MasterPage.master" AutoEventWireup="true" CodeFile="Settings.master.cs" Inherits="Dentist_Settings" %>
+
+<%--<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>--%>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <style>
+        .btn-default1 {
+            background-color: #484444;
+            border-color: #ddd;
+            color: #fbfbfb;
+        }
+    </style>
+    <div class="col-lg-12">
+        <div class="box" style="border-top: 3px solid #484444;">
+            <%--   <div class="box-header">
+                <h3 class="box-title">Settings</h3>
+            </div>--%>
+            <div class="box-body">
+                <p>
+                    <a href="profile3.aspx" class="btn btn-default1">Personal Details</a>
+                    <a href="profile4.aspx" class="btn btn-default1">Professional Details</a>
+                    <a href="profile5.aspx" class="btn btn-default1">Address Details</a>
+                    <a href="profile6.aspx" class="btn btn-default1">Timings</a>
+                    
+                    <%--               <a href="Branches.aspx" class="btn btn-default1">Branches</a>
+                     <a href="Departments.aspx" class="btn btn-default1">Departments</a>--%>
+<%--                    <a href="Users.aspx" class="btn btn-default1">Users</a>--%>
+                    <a href="addReceptionist.aspx" class="btn btn-default1">Manage Receptionist</a>
+                     <a href="appointmentsManager.aspx" class="btn btn-default1">appointmentsManager</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <asp:ContentPlaceHolder ID="ChildContent1" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+
+    <asp:ContentPlaceHolder ID="ChildContent2" runat="server">
+    </asp:ContentPlaceHolder>
+     <script src="../design/plugins/timepicker/bootstrap-timepicker.min.js"></script>
+    <script src="../design/plugins/timepicker/bootstrap-timepicker.js"></script>
+    <script>
+        //(function ($) {
+        //    'use strict';
+            $(function () {
+                //Timepicker
+                $(".timepicker").timepicker({
+                    showInputs: false,
+                    pickTime: false
+
+                });
+            });
+        //})(jQuery);
+    </script>
+</asp:Content>

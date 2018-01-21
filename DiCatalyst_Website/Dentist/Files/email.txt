@@ -1,0 +1,35 @@
+private string GetEmailtemplate(string Name)
+{
+string sTemplate = string.Empty;
+System.IO.StreamReader sreamreader = null;
+var strLocation = System.web.HTTPContext.Current.Server.MapPath("FDOnline/EmailTemplates/FDCreation.htm");
+try
+{
+streamreader = new System.IO.StreamReader(strLocation);
+sTemplate = streamReader.ReadToEnd();
+streamReader.Close();
+sTemplate=sTemplate.replace("{V1}", Name);
+}
+catch(Exception ex)
+{
+trhow ex;
+}
+return sTemplate;
+}
+
+
+string MailBody = GetEmailtemplate("Satya");
+
+userlogin.aspx.cs
+appointments
+Indi@206$
+doctor@gmail.com
+
+dentist/profile5.aspx  --> settings --> addressdetails
+
+Inventory link disable
+
+Patient module validations same as dentist
+
+17.476500
+78.488400

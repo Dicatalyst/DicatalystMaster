@@ -1,0 +1,16 @@
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\bin\x86\Debug\BAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\bin\x86\Debug\BAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\bin\x86\Debug\DAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\bin\x86\Debug\DAL.pdb
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\obj\x86\Debug\BAL.csprojResolveAssemblyReference.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\obj\x86\Debug\BAL.csproj.CoreCompileInputs.cache
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\obj\x86\Debug\BAL.dll
+F:\Ravi_Afterformat\1stDemo@Oct29th_P1issues\DiCatalyst\BAL\obj\x86\Debug\BAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Debug\BAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Debug\BAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Debug\DAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\bin\x86\Debug\DAL.pdb
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Debug\BAL.dll
+C:\Users\Ravi\Downloads\Nov7th_Dicatalyst\Nov7th_Dicatalyst\DiCatalyst\BAL\obj\x86\Debug\BAL.pdb

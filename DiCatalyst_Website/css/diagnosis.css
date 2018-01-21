@@ -1,0 +1,221 @@
+﻿   /* CSS REQUIRED */
+         .inl {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+        }
+
+        .modal-dialog1 {
+            margin: 30px auto;
+            width: 50%;
+        }
+
+        .modal-dialog2 {
+            margin: 30px auto;
+            width: 50%;
+        }
+
+        .nav-tabs-custom > .nav-tabs > li.active {
+            border-top-color: #3ae3f5 !important;
+        }
+
+        .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+            padding: 0px !important;
+        }
+        .banner-top {
+            background-color: #0d84ff !important;
+            border-bottom: 1px solid #918c8c;
+            color: #fff;
+            margin: 0px 0px 10px 0px;
+            padding: 10px;
+        }
+
+        .box-header {
+            padding: 0px !important;
+        }
+
+        .patientUl {
+            padding: 0px 0px 0px 10px;
+        }
+
+            .patientUl li {
+                display: inline-block;
+                list-style: none;
+                padding-right: 20px;
+            }
+
+        .nav-tabs-custom {
+            background: #007dff;
+        }
+
+            .nav-tabs-custom > .nav-tabs > li > a {
+                color: #fff;
+            }
+
+                .nav-tabs-custom > .nav-tabs > li > a:hover {
+                    color: #ffecc7;
+                }
+
+            .nav-tabs-custom > .nav-tabs > li.active {
+                border-top-color: #007dff !important;
+            }
+
+        .form-control {
+            border-color: #adadad;
+            border-radius: 0;
+            box-shadow: none;
+            margin-top: 5px;
+        }
+
+        input[type="radio"] {
+            margin: 5px;
+        }
+
+        .col-lg-7 {
+            width: 58.33333333%;
+        }
+
+        .box-header > .fa, .box-header > .glyphicon, .box-header > .ion, .box-header .box-title {
+            display: inline-block;
+            font-size: 18px;
+            line-height: 2;
+            margin: 0;
+        }
+
+        .box.box-info > .box-header {
+            background: #007dff;
+            background-color: #007dff;
+            color: #fff;
+            line-height: 39px;
+            padding: 5px 5px 5px 10px !important;
+        }
+
+        .state-icon {
+            left: -5px;
+        }
+
+        .list-group-item-primary {
+            background-color: rgb(66, 139, 202);
+            color: rgb(255, 255, 255);
+        }
+
+        /* DEMO ONLY - REMOVES UNWANTED MARGIN */
+
+        .well .list-group {
+            margin-bottom: 0px;
+        }
+
+        .list-group-item {
+            font-size: 18px !important;
+        }
+
+            .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+                background-color: #007dff;
+                border-color: #007dff;
+                color: #fff;
+                z-index: 2;
+            }
+
+        .btn-primary {
+            background-color: #007dff;
+            border-color: #007dff;
+        }
+
+        .well {
+            padding: 5px !important;
+        }
+   
+        .st0 {
+            fill: #302F2F;
+            stroke: #2D2D2D;
+            stroke-width: 0.2;
+        }
+
+        .st1 {
+            fill: #2D2D2D;
+            stroke: #2D2D2D;
+            stroke-width: 0.2;
+        }
+
+        .st2 {
+            opacity: 0.4;
+            fill: #FFFFFF;
+            stroke: #2D2D2D;
+            stroke-width: 0.2;
+        }
+
+        .st3 {
+            enable-background: new;
+        }
+
+        .st4 {
+            fill: #FFFFFF;
+            stroke: #2D2D2D;
+            stroke-width: 0.2;
+        }
+
+        path {
+            font-family: Arial;
+            font-size: 11px;
+            font-weight: normal;
+        }
+
+        .map svg {
+            height: auto;
+            width: 100%;
+        }
+
+        g polygon:hover {
+            fill: #808080;
+            cursor: crosshair;
+        }
+
+        #T1:hover, #T2:hover, #T3:hover, #T4:hover, #T5:hover, #T6:hover, #T7:hover, #T8:hover, #T9:hover, #T10:hover, #T11:hover, #T12:hover, #T13:hover, #T14:hover, #T15:hover, #T16:hover, #T17:hover, #T18:hover, #T19:hover, #T20:hover, #T21:hover, #T22:hover,
+        #T23:hover, #T24:hover, #T25:hover, #T26:hover, #T27:hover, #T28:hover, #T29:hover, #T30:hover, #T31:hover, #T32:hover {
+            opacity: 0.6;
+            cursor: pointer;
+        }
+
+        g text:hover {
+            cursor: crosshair;
+        }
+   
+        #popupInfo {
+            background-color: #ffffff;
+            border: 1px solid #a0a0a0;
+            border-radius: 10px;
+            box-shadow: 1px 3px 2px rgba(20, 20, 20, 0.3);
+            height: auto;
+            left: 0;
+            margin: 0 auto;
+            padding: 0;
+            /*position: absolute;*/
+            right: 0;
+            top: 25px;
+            visibility: hidden;
+            width: auto;
+            z-index: 5;
+            /*display: inline;*/
+            top: 20%;
+            position: absolute;
+        }
+
+        #closeButton {
+            position: absolute;
+            width: 32px;
+            height: 32px;
+            background: transparent url('images/close.png');
+            right: 5px;
+            top: 5px;
+        }
+
+            #closeButton:hover {
+                background: url(X_dark.gif);
+                z-index: 99;
+            }
+
+        #popupInfoText {
+            padding: 12px;
+            font-family: Verdana;
+            font-size: 12px;
+        }
