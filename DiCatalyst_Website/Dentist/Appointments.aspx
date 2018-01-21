@@ -162,7 +162,6 @@
                 selectHelper: true,
                 slotDuration: '00:15:00',
                 timeFormat:'hh:mm a',
-                //timezone:'Asia/Kolkata',
                 select: function (start, end, appointmentId, view) {
                     if (view.name == 'month') {
                         end = end.add('days', -1).add(15, 'minutes');
@@ -185,7 +184,6 @@
                 },
                 eventClick: function (event) {
                     callAppDialogueBeforeFormatingDates(event.start, event.end, event.appointmentId);
-                    //getPatientDetails(event.appointmentId);
                     if (event.appointmentId != null)
                         mapExistingDataToModal(event);
                     else
@@ -237,19 +235,6 @@
                 //        title: 'Happy Hour',
                 //        start: '2017-11-12T17:30:00'
                 //    },
-                //    {
-                //        title: 'Dinner',
-                //        start: '2017-11-12T20:00:00'
-                //    },
-                //    {
-                //        title: 'Birthday Party',
-                //        start: '2017-11-13T07:00:00'
-                //    },
-                //    {
-                //        title: 'Click for Google',
-                //        url: 'http://google.com/',
-                //        start: '2017-11-28'
-                //    }
                 //]
             });
 
@@ -275,7 +260,6 @@
                 $('[id$="ddlsalutation"]').val(event.salutation);
                 $('[id$="TextBoxCreateName"]').val(event.fullName);
                 $('[id$="txtAge"]').val(event.age);
-                //$('input[name=radio][value=2]').attr('checked', true);
                 if (event.maritalStatus == 'Single')
                     $("input[name='ctl00$ContentPlaceHolder1$radmar'][value='Single']").prop('checked', true);
                 else
@@ -307,13 +291,12 @@
                 $('[id$="txtAddress"]').val('');
                 $('[id$="txtOccupation"]').val('');
                 $('[id$="txtChiefComplaint"]').val('');
-                //$('[id$="txtConsultationFee"]').val('');
                 $('[id$="hdnIsValidSave"]').val('0');
             }
 
             function appDialogue(fromDate, toDate, appID) {
+                //test for repose
                 $("#createAppointmentPopup").click();
-
                 $('[id$="LblCreateStart"]').text(fromDate.format('MMMM DD YYYY hh:mm'));
                 $('[id$="lblModifyStart"]').text(fromDate.format('MMMM DD YYYY hh:mm'));
                 $('[id$="LblCreateEnd"]').text(toDate.format('MMMM DD YYYY hh:mm'));
@@ -325,9 +308,9 @@
             };
 
             function getPatientDetails(appID) {
+                //test for repose
                 $('[id$="hdnAppointmentID"]').val(appID);
                 $('[id$="btnPatientDetials"]').click();
-                //var patientData = $('[id$="hdnPatiendDetailsDataRow"]').val();
                 $("#appointmentButton").click();
                 $("#createAppointmentPopup").click();
             }
